@@ -1,0 +1,9 @@
+body {
+    width: 800px;
+    margin-left: 700px;
+}
+.headerFirst {
+    background-color: blue;
+    color: whitesmoke;
+    font-style: italic;
+}
